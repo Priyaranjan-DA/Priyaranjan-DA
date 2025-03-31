@@ -2,7 +2,7 @@
 ## Hey!!!👋 It's me Priyaranjan<br>
 ## he/him/techie
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-💻 **Computer Science Undergraduate** | 👾 **developer** | 🤖 **vibe coder**  
+💻 Computer Science Undergraduate | 👾 developer | 🤖 vibe coder  
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 - 🚀 exploring the world of tech
 - ⚡ Fun fact: I commit!
