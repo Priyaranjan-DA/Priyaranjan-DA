@@ -1,7 +1,7 @@
 
 ## Hey!!!👋 It's me Priyaranjan<br>
   -he/him/techie
-<img align="right" width="250" height="200" style="margin-top: -20px" src="https://i.pinimg.com/736x/b6/37/80/b6378008ce3e76347e7309d15d0115cc.jpg"> <br>
+<img align="right" width="250" height="180" style="margin-top: -20px" src="https://i.pinimg.com/736x/b6/37/80/b6378008ce3e76347e7309d15d0115cc.jpg"> <br>
 💻 Computer Science Undergraduate | 👾 developer | 🤖 vibe coder  <br>
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 - 🚀 exploring the world of tech
