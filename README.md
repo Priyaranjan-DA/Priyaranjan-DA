@@ -1,7 +1,8 @@
 
 ## Hey!!!👋 It's me Priyaranjan<br>
   -he/him/techie
-<img align="right" width="250" height="180" style="margin-top: -20px" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360"> <br>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
 💻 Computer Science Undergraduate at REC | 👾 developer | 🤖 vibe coder  <br>
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 - 🚀 exploring the world of tech
