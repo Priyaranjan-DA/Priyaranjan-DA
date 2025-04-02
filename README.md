@@ -5,7 +5,7 @@
 <br>
 💻 Computer Science Undergraduate at REC | 👾 developer | 🤖 vibe coder  <br>
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
-- 🚀 exploring the world of tech
+- 🚀 exploring the world of tech and improving myself in full stack development
 - ⚡ Fun fact:I commit!
 
 
