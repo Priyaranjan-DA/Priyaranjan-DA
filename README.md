@@ -32,6 +32,10 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyaranjan-DA&theme=github_dark" />
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyaranjan-DA&theme=github_dark" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyaranjan-DA&theme=github_dark" />
+
 
 
 [![Priyaranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyaranjan-DA&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Priyaranjan-DA/github-readme-activity-graph)
