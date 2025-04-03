@@ -36,7 +36,6 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyaranjan-DA&theme=github_dark" />
 
-![](https://github-profile-trophy.vercel.app/?username=Priyaranjan-DA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
