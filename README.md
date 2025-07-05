@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 - 🚀 exploring the world of tech and improving myself in full stack development
 - ⚡ Fun fact:I commit!
+- valar codeghulis(All men must code!)
 
 
 ## 🧑‍💻 I code in
